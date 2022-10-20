@@ -15,7 +15,7 @@ The loss computation includes:
 
 (4) Setting up the target graph and backpropagating the error in graph alignment
 
-For a detailed description of the loss function and results for volumetric retinal fluid- and brain tumor segmentation, please refer to the paper and associated supplemental materials.
+For a detailed description of the loss function and results for volumetric retinal fluid- and brain tumor segmentation, please refer to the paper ["Graph-Constrained Contrastive Regularization for Semi-Weakly Volumetric Segmentation"](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/399_ECCV_2022_paper.php) and associated supplemental materials.
 
 # Cite
 ```latex
